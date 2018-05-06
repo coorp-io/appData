@@ -1,0 +1,9 @@
+{
+	"version":"0.01 beta",
+	"minerApp":{
+		"ewbf":{
+			"files":["miner.exe","cudart32_80.dll","cudart64_80.dll"],
+			"version":0
+		}
+	}
+}
